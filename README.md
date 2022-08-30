@@ -1,12 +1,11 @@
-### <h2 align="center">Hii, Ankit this side<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+### <h2 align="center">Hii, Ritvij this side<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
 
-I am an Engineering Student, Web developer and an Anime-Lover. I love experimenting with new technologies and building small projects.<br>
+I am an Engineering Student, Data Science/Analysis Enthusisast and an Anime-Lover. I love experimenting with new technologies and building small projects.<br>
 <br>
 - Final year student @NITRR⚡
-- 🔭 I’m currently learning looking for new oppurtunities. Pls find my resume attached below.
-- ✍🏻 SWE Solver Intern @ByteLearn | Sr. SDET Intern @Atom EI | Ex - Data Analyst @Catenate
+- 🔭 I’m currently learning looking for new oppurtunities.
 -  <img src="https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" alt="" width="300">
 <br>
 <p align="center">
